@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="TST.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="83" Column="23" />
+      <File FileName="Helper.cs" Line="1" Column="1" />
+      <File FileName="EntropyChanger.cs" Line="1" Column="1" />
+      <File FileName="ArithmeticCoder.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/richardvdPal/Google Drive/TST/TST/Helper.cs" line="195" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="RangeCoder.cs" line="167" offsetX="683" offsetY="2490" expression="cm" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
